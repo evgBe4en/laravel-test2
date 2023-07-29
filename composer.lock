@@ -1255,7 +1255,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.3|^8.0"
+                "php": "^8.1"
             },
             "require-dev": {
                 "nesbot/carbon": "^2.61",
@@ -7519,7 +7519,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.3|^8.0"
+                "php": "8.1"
             },
             "require-dev": {
                 "ext-json": "*",
